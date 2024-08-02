@@ -1,0 +1,6 @@
+# Design UI
+
+# Add database to store quotes based on tags.
+the API give specific tag and returns quotes that must be stored on database with it's id and name of tag along with quote itself.
+
+# Add database for habits.
