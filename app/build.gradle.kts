@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "com.mohsents.habitformer.app"
+    namespace = "com.mohsents.androidprojecttemplate.app"
     compileSdk = AppConfig.COMPILE_SDK_VERSION
 
     defaultConfig {
-        applicationId = "com.mohsents.habitformer"
+        applicationId = "com.mohsents.androidprojecttemplate"
         minSdk = AppConfig.MIN_SDK_VERSION
         targetSdk = AppConfig.TARGET_SDK_VERSION
         versionCode = AppConfig.VERSION_CODE

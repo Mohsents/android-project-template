@@ -42,6 +42,5 @@ dependencyResolutionManagement {
     }
 }
 
-// TODO Change the project name
-rootProject.name = "Habit Former"
+rootProject.name = "Android Project Template"
 include(":app", ":ui", ":data")

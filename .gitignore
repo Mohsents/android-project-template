@@ -1,0 +1,61 @@
+# Gradle files
+.gradle/
+build/
+*/build/
+**/build/
+**/captures/
+*.iml
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio specific files
+.idea/
+*.hprof
+
+# User-specific configurations
+*.jks
+*.keystore
+
+# Miscellaneous
+*.log
+*.tmp
+*.temp
+*.orig
+*.swp
+*.swo
+*.DS_Store
+*.class
+*.apk
+*.ap_
+*.dex
+*.jar
+*.war
+*.ear
+*.so
+*.dylib
+*.dll
+*.exe
+
+# NDK
+obj/
+*.o
+*.a
+*.so
+
+# External libraries
+external/
+libs/
+*.jar
+
+# Android Studio 3.0+ specific
+.cxx/
+.externalNativeBuild/
+.cxx/
+gradle-wrapper.jar
+
+# Android Studio 4.0+ specific
+*.hprof
+
+# Firebase files
+google-services.json

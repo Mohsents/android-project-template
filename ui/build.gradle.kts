@@ -9,7 +9,7 @@ plugins {
 }
 
 android {
-    namespace = "com.mohsents.habitformer.ui"
+    namespace = "com.mohsents.androidprojecttemplate.ui"
     compileSdk = AppConfig.COMPILE_SDK_VERSION
 
     defaultConfig {

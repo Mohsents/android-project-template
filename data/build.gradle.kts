@@ -7,7 +7,7 @@ plugins {
 }
 
 android {
-    namespace = "com.mohsents.habitformer.data"
+    namespace = "com.mohsents.androidprojecttemplate.data"
     compileSdk = AppConfig.COMPILE_SDK_VERSION
 
     defaultConfig {
